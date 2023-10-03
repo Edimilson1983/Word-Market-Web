@@ -1,0 +1,16 @@
+.button-home {
+  width: 100%;
+  height: 56px;
+  border: 2px solid navy;
+  border-radius: 8px;
+  background-color: #f10025;
+  color: aliceblue;
+  font-size: 26px;
+  letter-spacing: 0.1rem;
+  cursor: pointer;
+}
+.button-home:hover {
+  opacity: 0.8;
+  color: #f1f2f6;
+  border: none;
+}
